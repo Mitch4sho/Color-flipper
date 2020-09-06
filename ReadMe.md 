@@ -1,0 +1,3 @@
+This is a applications that will flip through hex colors and show as the current background. there are two version , simple version and a Hex version.
+- simple version has a set amount of hex code in a array that it flip through 
+- Hex version  has will generate a hex code every time the click me button is pressed
