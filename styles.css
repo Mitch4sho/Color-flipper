@@ -70,9 +70,16 @@ a:hover {
   border: 2px solid #042a2b;
   border-radius: 10px;
 }
+button:focus {
+  outline: 0;
+}
 
 #hexCodeBtn:hover {
   color: #fcfcfc;
   background-color: #042a2b;
   transition: all 0.2s linear;
+}
+
+span {
+  color: #f4e04d;
 }
